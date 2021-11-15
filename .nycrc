@@ -1,0 +1,11 @@
+{
+  "all": true,
+  "include": [
+    "controllers/*.js",
+    "services/*.js"
+  ],
+  "exclude": [
+    "config/*.js",
+    "test/*.js"
+  ]
+}
